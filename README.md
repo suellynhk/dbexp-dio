@@ -1,2 +1,3 @@
-# dbexp-dio
-DIO-  Database Exp Course
+# DIO-  Database Exp Course
+
+Repository created for the "Introduction to git and github" project challenge
